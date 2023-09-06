@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=purjaysin&color=red" />
 <img src="https://i.imgur.com/mVIr207.gif" alt="side Image" align="right" width="500" height="auto" />
 
-- 🏦 I’m currently a pre-final year, Computer Undergraduate at Thapar University, India
+- 🏦 I’m currently a final year, Computer Undergraduate at Thapar University, India
 - 💻 I'm majoring in Data Science and currently learning Data Structures and Algorithms and Machine Learning
 - 🤔 I have a keen interest in Blockchain and I am currently exploring smart contracts and the Ethereum blockchain
 - ⚡ I’m looking for opportunities to collaborate on projects utilising Data Modelling and visualisation, or/and web apps
